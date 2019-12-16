@@ -16,3 +16,5 @@ map:
       - 'http://openseadragon.github.io'
   - uri: 'http://purl.org/coar/resource_type/c_12ce'
     media_type: video
+  - uri: 'https://vbrick.com/'
+    media_type: remote_video
